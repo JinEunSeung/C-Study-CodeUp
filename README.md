@@ -1,1 +1,1 @@
-# C-Study-CodeUp
+# I hate Language C
